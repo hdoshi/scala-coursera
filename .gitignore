@@ -1,0 +1,13 @@
+.cache
+.classpath
+.project
+.DS_Store
+.worksheet
+.settings
+.class
+!.gitignore
+*/lib_managed/**
+*/src/main/scala/common/**
+*/project/**
+*/submission/**
+*/target/**
